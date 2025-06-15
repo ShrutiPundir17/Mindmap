@@ -1,3 +1,4 @@
+Live Link : https://mindmap-prod.vercel.app
 🚀 Overview
 MindMate is a full-stack AI-powered mental wellness companion designed to support users through journaling, smart suggestions, and anonymous support. It brings together the power of conversational AI, real-time mood analysis, community connection, and intelligent habit-building to provide a non-clinical, accessible tool for mental wellbeing.
 
